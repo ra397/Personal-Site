@@ -1,0 +1,9 @@
+header {
+    font: bold;
+    font-size: larger;
+}
+
+.songs {
+    display: flex;
+    flex-wrap: wrap;
+}
