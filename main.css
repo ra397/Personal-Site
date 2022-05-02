@@ -1,11 +1,16 @@
+body {
+    background-color: cornsilk;
+}
+
 #page-wrap {
     margin: auto;
     width: 50%;
 }
 
 header {
-    font: bold;
-    font-size: larger;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .songs {
